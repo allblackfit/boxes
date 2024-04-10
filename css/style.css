@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+
+.flex-container {
+    margin-top: 20%;
+    margin-bottom: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.vkusnoe {
+    padding: 4px;
+    flex-grow: 6;
+    border-radius: 10px;
+    margin-left: 4px;
+    background-color: #fafeb8;
+    padding: 1em;
+    margin: 1em;
+
+
+}
+
+.dom {
+    padding: 4px;
+    flex-grow: 6;
+    border-radius: 10px;
+    background-color: #fafeb8;
+    padding: 1em;
+    margin: 1em;
+}
+
+.podarki {
+    padding: 4px;
+    flex-grow: 4;
+    border-radius: 10px;
+    background-color: #fafeb8;
+    padding: 1em;
+    margin: 1em;
+}
+
+.krasota {
+    padding: 4px;
+    flex-grow: 4;
+    border-radius: 10px;
+    background-color: #fafeb8;
+    padding: 1em;
+    margin: 1em;
+}
+
+.produkti {
+    padding: 4px;
+    flex-grow: 4;
+    border-radius: 10px;
+    background-color: #fafeb8;
+    padding: 1em;
+    margin: 1em;
+}
+
+sup {
+    color: green;
+}
+
+h2,
+h3 {
+    font-family: "Balsamiq Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img {
+    float: right;
+    width: 50%;
+    height: 100%;
+    padding-left: 12px;
+
+}
+
+table {
+    border-collapse: collapse;
+  overflow-hidden;
+  padding:-1m; 
+}
